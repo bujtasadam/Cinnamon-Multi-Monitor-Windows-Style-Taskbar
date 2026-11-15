@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/github/downloads/bujtasadam/Cinnamon-Multi-Monitor-Windows-Style-Taskbar/total) ![License](https://img.shields.io/github/license/bujtasadam/Cinnamon-Multi-Monitor-Windows-Style-Taskbar)
+
 # Cinnamon Multi-Monitor Windows-Style Taskbar (`cinnamon-win-taskbar`)
 
 A simple, automated Bash & Python utility for **Linux Mint (Cinnamon Desktop)** that brings a classic **Windows-style multi-monitor taskbar experience** to all connected displays.
